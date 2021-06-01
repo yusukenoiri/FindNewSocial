@@ -1,5 +1,4 @@
-# アプリ名
-FindNewSocial
+# FindNewSocial
 
 ## サイト概要
 
